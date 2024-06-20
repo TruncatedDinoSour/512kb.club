@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/512kb.club>
 # 512KB Club
 
 The internet has become a **bloated mess**. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
